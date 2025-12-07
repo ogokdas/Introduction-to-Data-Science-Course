@@ -20,6 +20,6 @@ By the end of this course, students will be able to:
 - Interpret results from a data-driven perspective
 
 ## Instructor
-**[Ömer Gökdaş, PhD]**  
+**Ömer Gökdaş, PhD**  
 Geomatics Engineer | Data Science & Applied Statistics  
 LinkedIn: https://www.linkedin.com/in/ogokdas
