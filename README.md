@@ -7,7 +7,6 @@ Students will learn how to explore, analyze, and interpret data through hands-on
 
 ## Course Structure
 - **Lectures**: Slide decks (PDF) and hands-on Jupyter notebooks (.ipynb)
-- **Datasets**: Real-world datasets used during the course
 - **Syllabus**: Official course outline and weekly plan
 
 Some lecture materials may cover more than one week depending on the course pace.
