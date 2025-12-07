@@ -1,4 +1,4 @@
-![Course Poster](Data Science.png)
+![Course Poster](Poster_Data_Science.png)
 # Introduction to Data Science
 
 ## Course Overview
